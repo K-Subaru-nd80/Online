@@ -7,7 +7,7 @@
 <h3>第0回、第1回</h3>
 <p>環境構築などです。</p>
 <ul>
-  <li><a href="https://www.mozilla.org/ja/">第0回 はじめに</a></li>
+  <li><a href="第0回　はじめに">第0回 はじめに</a></li>
   <li><a href="https://www.mozilla.org/ja/">第1回 環境構築</a></li>
 </ul>
 
