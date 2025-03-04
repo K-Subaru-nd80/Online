@@ -22,5 +22,5 @@ git config --global user.email "好きなEmail"
 ```
 
 <h2>»その他</h2>
-<p>Node.js・・・また解説します</p>
+<p>Node.js・・・パッケージマネージャーであり、色々なアドオンの管理ができます。</p>
 <p>Download link → https://nodejs.org/ja</p>
