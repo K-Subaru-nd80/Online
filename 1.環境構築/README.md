@@ -1,4 +1,6 @@
 <h1>1.環境構築</h1>
+<h2>»GitHubアカウントの作成</h2>
+<p>https://github.com/　ここからアカウント登録して下さい。</p>
 <h2>»VSCodeのインストール</h2>
 <p>VSCodeは、いわば便利なメモ帳です。補完したり、タイプミスを見つけたりしてくれます。</p>
 <p>Download link → https://code.visualstudio.com/download </p>
