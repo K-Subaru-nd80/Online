@@ -14,5 +14,13 @@
 <p>GitHubとは別物ですが、Gitという物があります。</p>
 <p>Download link → https://git-scm.com/downloads </p>
 <p>ダウンロードした後、windowsならcmdかpowershell,macならターミナルを開いて,以下のコマンドを実行して下さい。</p>
-```git config --global user.name "好きな名前```</br>
-```git config --global user.email "好きなEmail"```
+
+
+```
+git config --global user.name "好きな名前"
+git config --global user.email "好きなEmail"
+```
+
+<h2>»その他</h2>
+<p>Node.js・・・また解説します</p>
+<p>Download link → https://nodejs.org/ja</p>
